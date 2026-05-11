@@ -13,3 +13,4 @@ qylock
 hyprselect
 gruvbox-plus-icon-pack
 plymouth
+cursor
