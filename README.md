@@ -8,3 +8,4 @@ solarust
 tuiman, kew -> songs
 rice cooker
 concord (tui)
+spotibye/SpotiFLAC
