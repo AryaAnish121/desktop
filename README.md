@@ -7,4 +7,4 @@ fastfetch
 solarust
 tuiman, kew -> songs
 rice cooker
-concord
+concord (tui)
