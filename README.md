@@ -12,3 +12,4 @@ spotibye/SpotiFLAC
 qylock 
 hyprselect
 gruvbox-plus-icon-pack
+plymouth
