@@ -14,3 +14,5 @@ hyprselect
 gruvbox-plus-icon-pack
 plymouth
 cursor
+[mono](https://github.com/xonoxc/mono)
+[netorbit](https://github.com/ZXCurban/NetOrbit)
