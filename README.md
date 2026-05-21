@@ -1,6 +1,7 @@
 # desktop
 
 ambxst
+vicinae -> matugen theme
 spicetify -> visualizer
 wallpapers
 fastfetch
