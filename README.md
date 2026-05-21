@@ -1,7 +1,7 @@
 # desktop
 
 ambxst
-vicinae -> matugen theme
+vicinae -> matugen theme -> remove hover (colors.list.item.hover) and set foreground for selection as secondary_container 
 spicetify -> visualizer
 wallpapers
 fastfetch
