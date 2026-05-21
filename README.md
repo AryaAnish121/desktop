@@ -22,3 +22,4 @@ lazygit <br />
 macos theme icons <br />
 superfile <br />
 apple-emoji-ttf <br />
+waydroid 
