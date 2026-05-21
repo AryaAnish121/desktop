@@ -19,3 +19,4 @@ cursor
 pipes, cava
 lazygit
 macos theme icons
+superfile
