@@ -20,3 +20,4 @@ pipes, cava
 lazygit
 macos theme icons
 superfile
+apple-emoji-ttf
