@@ -4,7 +4,7 @@ ambxst
 spicetify -> visualizer
 wallpapers
 fastfetch
-solarust
+solarust, metropolis
 tuiman, kew -> songs
 rice cooker
 concord (tui)
@@ -17,3 +17,5 @@ cursor
 [mono](https://github.com/xonoxc/mono)
 [netorbit](https://github.com/ZXCurban/NetOrbit)
 pipes, cava
+lazygit
+macos theme icons
