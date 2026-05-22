@@ -15,11 +15,11 @@ hyprselect <br />
 gruvbox-plus-icon-pack  <br />
 plymouth <br />
 cursor <br />
-[mono](https://github.com/xonoxc/mono) <br />
 [netorbit](https://github.com/ZXCurban/NetOrbit) <br />
 pipes, cava <br />
 lazygit <br />
 macos theme icons <br />
 superfile <br />
 apple-emoji-ttf <br />
-waydroid 
+waydroid  <br />
+kitty -> optionally change ambxst kittygenerator and set cursor color as primary
