@@ -23,5 +23,6 @@ superfile <br />
 apple-emoji-ttf <br />
 waydroid  <br />
 kitty -> optionally change ambxst kittygenerator and set cursor color as primary <br />
-set env QT_QPA_PLATFORMTHEME to kde
-optionally (would recommend) fix css in gtk 4 for theme colors
+set env QT_QPA_PLATFORMTHEME to kde <br />
+optionally (would recommend) fix css in gtk 4 for theme colors <br />
+apple fonts
