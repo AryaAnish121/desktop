@@ -27,3 +27,6 @@ set env QT_QPA_PLATFORMTHEME to kde <br />
 optionally (would recommend) fix css in gtk 4 for theme colors <br />
 apple fonts <br />
 kopuz
+
+## Cool things ig
+[engine simulator (run it through wine)](https://github.com/Engine-Simulator/engine-sim-community-edition#installation-Instructions)
