@@ -28,5 +28,7 @@ optionally (would recommend) fix css in gtk 4 for theme colors <br />
 apple fonts <br />
 kopuz
 
+## fucking gpu drivers; make sure to install them; i thought they already had it in base
+
 ## Cool things ig
 [engine simulator (run it through wine)](https://github.com/Engine-Simulator/engine-sim-community-edition#installation-Instructions)
