@@ -27,7 +27,7 @@ set env QT_QPA_PLATFORMTHEME to kde <br />
 optionally (would recommend) fix css in gtk 4 for theme colors <br />
 apple fonts <br />
 kopuz <br />
-vencord (and use ambxst theme)
+vesktop (and use ambxst theme)
 
 ## fucking gpu drivers; make sure to install them; i thought they already had it in base
 
