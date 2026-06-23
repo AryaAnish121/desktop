@@ -6,13 +6,10 @@ spicetify -> visualizer <br />
 wallpapers <br />
 fastfetch <br />
 solarust, metropolis <br />
-tuiman, kew -> songs <br />
-rice cooker <br />
-concord (tui) <br />
 spotibye/SpotiFLAC <br />
 qylock <br />
 hyprselect <br />
-gruvbox-plus-icon-pack  <br />
+asciiquarium <br />
 plymouth <br />
 cursor <br />
 [netorbit](https://github.com/ZXCurban/NetOrbit) <br />
