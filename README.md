@@ -24,7 +24,7 @@ set env QT_QPA_PLATFORMTHEME to kde <br />
 optionally (would recommend) fix css in gtk 4 for theme colors <br />
 apple fonts <br />
 kopuz <br />
-vesktop (and use ambxst theme)
+vesktop (and use ambxst theme) <br />
 use [matugen themes](https://github.com/InioX/matugen-themes) to customize everything; EVERYTHING. firefox sites, spotify, vscode ...
 
 ## fucking gpu drivers; make sure to install them; i thought they already had it in base
