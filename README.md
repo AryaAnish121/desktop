@@ -37,7 +37,7 @@ hardware accelearation - intel-media-driver
 
 ## downlaod profile-sync-daemon to prevent read write issues and also increase speed - uses more ram
 
-## <resource> downlaod pdfs from [jeearchive.in](https://jeearchive.in); use zathura and [config](https://github.com/aryaanish121/matugen-zathura) to style
+## <resource> downlaod pdfs from [jeearchive.in](https://jeearchive.in); use zathura and [config](https://github.com/aryaanish121/zathura-matugen) to style
 
 ## for davicni resolve
 install opencl-mesa
