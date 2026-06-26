@@ -37,6 +37,8 @@ hardware accelearation - intel-media-driver
 
 ## downlaod profile-sync-daemon to prevent read write issues and also increase speed - uses more ram
 
+## <resource> downlaod pdfs from [jeearchive.in](https://jeearchive.in); use zathura and [config](https://github.com/aryaanish121/matugen-zathura) to style
+
 ## for davicni resolve
 install opencl-mesa
 https://www.reddit.com/r/Fedora/comments/1l05jcf/davinci_resolve_on_intel_igpu_fix_unsupported_gpu/
