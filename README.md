@@ -1,22 +1,18 @@
 # desktop
 
-ambxst <br />
+i am developing a custom qs config hehe :) <br />
 vicinae -> matugen theme -> remove hover (colors.list.item.hover) and set foreground for selection as secondary_container <br />
 spicetify -> visualizer <br />
 wallpapers <br />
 fastfetch <br />
-solarust, metropolis <br />
-spotibye/SpotiFLAC <br />
 qylock <br />
 hyprselect <br />
 asciiquarium <br />
 plymouth <br />
 cursor <br />
 [netorbit](https://github.com/ZXCurban/NetOrbit) <br />
-pipes, cava <br />
-lazygit <br />
+pipes, cbonsai, cava <br />
 macos theme icons <br />
-superfile <br />
 apple-emoji-ttf <br />
 waydroid  <br />
 kitty -> optionally change ambxst kittygenerator and set cursor color as primary <br />
